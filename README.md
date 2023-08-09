@@ -4,6 +4,8 @@ In order to run this code make sure to install pytest in your venv:
 pip install pytest
 ```
 This version of the code also allow to handle "problems" with more then two numbers
+A running example of this code can be found here:
+https://replit.com/@adibnaya/boilerplate-arithmetic-formatter
 
 # --instructions--
 
