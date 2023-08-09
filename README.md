@@ -1,3 +1,10 @@
+This project is part of https://www.freecodecamp.org/ python chalenges,
+In order to run this code make sure to install pytest in your venv:
+```
+pip install pytest
+```
+This version of the code also allow to handle "problems" with more then two numbers
+
 # --instructions--
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
